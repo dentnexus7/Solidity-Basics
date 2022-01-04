@@ -1,0 +1,1 @@
+This Repository Exemplifies the Solidity Basics learned through the "Ethereum Blockchain Developer Bootcamp With Solidity (2022)" Udemy course.
